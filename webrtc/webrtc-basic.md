@@ -228,5 +228,5 @@ A(local)和B(remote)代表两个人, 初始化并分别创建PeerConnection , 
 
 
 ## WebRTC课程
-WebRTC 一对一 多对多 P2P Mesh SFU 流媒体 视频会议等请亢老师的站点
+WebRTC 一对一 多对多 P2P Mesh SFU 流媒体 视频会议课程等请关注
 [https://www.kangshaojun.com](https://www.kangshaojun.com)
