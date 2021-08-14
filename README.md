@@ -33,6 +33,7 @@ Flutter React Golang WebRTC等技术学习笔记
 - [WebRTC多对多视频通话案例-SFU方案](https://ke.qq.com/course/3134372?tuin=2c77f7f0)
 - [WebRTC套餐-全部课程](https://ke.qq.com/course/package/32134?tuin=2c77f7f0)
 - [WebRTC视频会议案例-H5(React+Golang)](https://ke.qq.com/course/3614099?tuin=2c77f7f0)
+- [WebRTC视频会议案例-APP(Flutter+Golang))](https://ke.qq.com/course/3619476?tuin=2c77f7f0)
 
 <br>
 
@@ -59,4 +60,4 @@ Flutter React Golang WebRTC等技术学习笔记
 - [WebRTC一对一视频通话案例](https://kangshaojun.podia.com/webrtc-flutter-react-golang)
 - [WebRTC多对多视频通话案例-Mesh方案](https://kangshaojun.podia.com/webrtc-mesh-flutter-react-golang)
 - [WebRTC多对多视频通话案例-SFU方案](https://kangshaojun.podia.com/webrtc-sfu-flutter-react-golang)
-- [WebRTC视频会议案例-H5(React+Golang)](https://kangshaojun.podia.com/webrtc-h5-react-golang)
+- [WebRTC视频会议案例-APP(Flutter+Golang))](https://kangshaojun.podia.com/webrtc-app-flutter-golang)
